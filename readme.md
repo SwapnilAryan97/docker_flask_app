@@ -14,9 +14,6 @@
 ### Heroku Notes: Get the heroku API key from account in: -> applications -> create authorization button
 ### GitHub Notes:  Set the action secrets repository in: -> settings -> actions -> secrets
 
-
-
-
 .pylintrc is the config for pylint .coveragerc is the config for coverage setup.py is a config file for pytest
 
-[My App](https://kwilliam-flask.herokuapp.com)
+[My App](https://calculator-swapnil.herokuapp.com/)
