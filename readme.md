@@ -1,4 +1,6 @@
-# Calculator Project Setup
+# Project Setup
+
+
 [![Run Tests, Build Dockerfile, Run on Heroku](https://github.com/kaw393939/docker_flask/actions/workflows/test-build-deploy.yml/badge.svg)](https://github.com/kaw393939/docker_flask/actions/workflows/test-build-deploy.yml)
 1. To Build with docker compose:
    docker compose up --build

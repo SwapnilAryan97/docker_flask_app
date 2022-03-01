@@ -9,4 +9,4 @@ def test_request_example(client):
 
 def test_request_about(client):
     response = client.get('/about')
-    assert b"about" in response.data
+    assert b"consectetur adipiscing" in response.data
