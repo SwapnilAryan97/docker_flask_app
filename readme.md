@@ -1,7 +1,7 @@
 # Project Setup
 
 ## Workflow
-[![Workflow]](https://github.com/SwapnilAryan97/docker_flask_app/actions/workflows/test-build-deploy.yml)
+[Workflow]](https://github.com/SwapnilAryan97/docker_flask_app/actions/workflows/test-build-deploy.yml)
 
 [![Run Tests, Build Dockerfile, Run on Heroku](https://github.com/kaw393939/docker_flask/actions/workflows/test-build-deploy.yml/badge.svg)](https://github.com/kaw393939/docker_flask/actions/workflows/test-build-deploy.yml)
 1. To Build with docker compose:
